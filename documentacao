@@ -1,10 +1,8 @@
- **NOME DO PROJETO**
+**NOME DO PROJETO**
 
 Breve descrição do que o software faz, seu objetivo e a quem se destina.
 
----
-
-## 📖 **Tabela de Conteúdos**
+**Tabela de Conteúdos**
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Arquitetura](#arquitetura)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -21,7 +19,7 @@ Breve descrição do que o software faz, seu objetivo e a quem se destina.
 
 ---
 
-## 🧩 **Sobre o Projeto**
+**Sobre o Projeto**
 Explique:
 - O problema que o software resolve  
 - Objetivos principais  
@@ -29,7 +27,7 @@ Explique:
 
 ---
 
-## 🏛️ **Arquitetura**
+**Arquitetura**
 Descreva a arquitetura geral:  
 - Diagrama de arquitetura (opcional)  
 - Fluxo de dados  
@@ -46,7 +44,7 @@ Exemplo:
 
 ---
 
-## 🛠️ **Tecnologias Utilizadas**
+**Tecnologias Utilizadas**
 Liste as principais tecnologias:
 
 - Linguagens:  
@@ -57,7 +55,7 @@ Liste as principais tecnologias:
 
 ---
 
-## ✨ **Funcionalidades**
+**Funcionalidades**
 Explique as features existentes:
 
 - [x] Cadastro de usuários  
@@ -67,30 +65,30 @@ Explique as features existentes:
 
 ---
 
-## 🚀 **Instalação**
+**Instalação**
 Passo-a-passo:
 
-### **Pré-requisitos**
+**Pré-requisitos**
 ```
 Node.js >= 18
 Python >= 3.10
 Docker (opcional)
 ```
 
-### **Instalar dependências**
+**Instalar dependências**
 ```
 npm install
 pip install -r requirements.txt
 ```
 
-### **Subir containers**
+**Subir containers**
 ```
 docker-compose up -d
 ```
 
 ---
 
-## ⚙️ **Configuração**
+**Configuração**
 Crie ou edite o arquivo `.env`:
 
 ```
